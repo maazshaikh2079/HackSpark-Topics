@@ -1,0 +1,11 @@
+1. AI for Cybersecurity (AI-Powered Cybersecurity Threat Detection System) VV
+&
+9. AI-Driven Threat Intelligence Platform VV
+
+10. Real-Time AI-Based Intrusion Detection System (IDS) VV
+
+11. AI for Fraudulent Transaction Detection in Real-Time VV
+
+12. Scam Website Detection Using AI VV
+
+13. AI for Voice Authentication in Financial Transactions vv
